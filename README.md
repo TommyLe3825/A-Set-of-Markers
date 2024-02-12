@@ -5,4 +5,6 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-b
 
 In this lesson, FreeCodeCamp.com taught us how to use set color values and pair colors with each other. We used functions like hsl(), hsla(), rgb(), linear-gradient(), and rgba().
 
-The correct colors for your webpage can greatly improve the aesthetic appeal to your readers!
+We also messed around with part of the border and played with the shadow!
+
+The correct colors for your webpage can significantly improve the aesthetic appeal to your readers!
